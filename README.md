@@ -1,4 +1,7 @@
 # Botlzmann Wealth Model #
+This model is drawn from econophysics and presents a statistical mechanics approach to wealth distribution.
+
+Refererences and further reading can be found below.
 
 ## Project Description ##
 I made this little project to practice simulation tools with Mesa - Python's agent-based modeling and simulation library.
@@ -16,6 +19,13 @@ As you'll see, there are 4 files in this repo:
 1. Clone all files in this project.
 2. Make sure to have all your library dependencies installed
 3. Run the model from the 'run.py' script and enjoy the output visualizations and data
+
+## References ##
+Check out [this](https://mesa.readthedocs.io/stable/examples/basic/boltzmann_wealth_model.html) tutorial on how to build this model, using a similar approach to the one I used.
+
+Other light readings:
+1. [A Statistical Equilibrium Model of Wealth and Distribution](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=SCE2001&amp;paper_id=214)
+2. [Statistical Mechanics of Money, Income, and Wealth: A Short Survey](https://arxiv.org/pdf/cond-mat/0211175v1)
 
 ## NOTE ##
 This was a fun project to work on and I'll be updating it as time goes on but for now, I'm happy with what I've learned and probably won't be updating this README anytime soon. Check the commitment history for more updates as that is the most reliable way to keep up-to-date with this project.
